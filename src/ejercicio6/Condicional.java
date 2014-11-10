@@ -2,10 +2,6 @@ package ejercicio6;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author oquintansocampo
- */
 public class Condicional {
 
     private String articulo;
